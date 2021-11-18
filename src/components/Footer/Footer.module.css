@@ -1,0 +1,10 @@
+.footNote {
+  margin: 0.5rem 0;
+  color: black;
+  font-size: 20px;
+}
+@media (max-width: 350px) {
+  .footNote {
+    font-size: 15px;
+  }
+}
